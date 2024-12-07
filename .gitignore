@@ -1,0 +1,6 @@
+readme/
+bin/
+obj/
+*.vcxproj
+*.vcxproj.user
+.vs/
